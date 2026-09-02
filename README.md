@@ -48,6 +48,18 @@ pnpm dev
 
 Open http://localhost:3000. The whole simulation runs client-side; there is no backend.
 
+## Verification
+
+```bash
+pnpm typecheck
+pnpm lint
+pnpm test
+pnpm build
+```
+
+The engine tests cover world initialization, the complete Q-table state space,
+relation and pact symmetry, yearly history sampling, and finished-world immutability.
+
 ## Project structure
 
 ```
