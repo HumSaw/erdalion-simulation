@@ -1,5 +1,6 @@
 # Chronicle of Erdalion
 
+[![CI](https://github.com/HumSaw/erdalion-simulation/actions/workflows/ci.yml/badge.svg)](https://github.com/HumSaw/erdalion-simulation/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-8a6d3b.svg)](LICENSE)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16-111827.svg)](https://nextjs.org/)
 
